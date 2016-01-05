@@ -24,4 +24,4 @@ Here are some ideas:
 
 - **ApJ Data Frames** Retrieve, read-in, and merge Tabular datasets from journals with `pandas` and its highly configurable `read_csv`.  These datasets are often useful for overplotting on figures with your results, remaking figures for talks, or using in your analysis.  Each author and journal stores tables in different formats, so the trick is to pass the proper arguments to `read_csv`.  `AstroPy` is useful here as well. Repo [here](https://github.com/BrownDwarf/ApJdataFrames).
 
--** Awesome Astronomy** Where do astronomers discover awesome resources?  Why not an awesome list?  Here is [the start of an awesome astronomy list](https://github.com/jonathansick/awesome-astronomy).  We just need to add more content to it.
+-**Awesome Astronomy** Where do astronomers discover awesome resources?  Why not an awesome list?  Here is [the start of an awesome astronomy list](https://github.com/jonathansick/awesome-astronomy).  We just need to add more content to it.
